@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textSize="25sp"
-        android:text="Hello, 10210044 Jusju berhasil membuat tugas ini" />
+        android:text="Hello, C2157201022_Justatia berhasil membuat tugas ini." />
 
 </LinearLayout>
